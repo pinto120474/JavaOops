@@ -13,9 +13,6 @@ public class Zoo {
 		
 		Fish fish1 = new Fish();
 		fish1.swim();
-		
-		
-
 	}
 
 }
