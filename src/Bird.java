@@ -8,5 +8,9 @@ public class Bird {
 	public void drink() {
 		System.out.println("Drinking.....");
 	}
+	
+	public void build_nest( ) {
+		System.out.println("Birds Build Nest.....");
+	}
 
 }
