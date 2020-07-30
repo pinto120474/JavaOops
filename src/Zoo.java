@@ -13,8 +13,5 @@ public class Zoo {
 		
 		Sparrow sp = new Sparrow(0, null, 0);
 		sp.move();
-		
-		
 	}
-
 }
