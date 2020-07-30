@@ -9,5 +9,13 @@ public class Fish extends Animal {
 	public void swim() {
 		System.out.println("swimming.....");
 	}
+
+	@Override
+	public void move() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("fish is swimming.....");
+		
+	}
 	
 }

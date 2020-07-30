@@ -14,4 +14,12 @@ public class Bird extends Animal{
 		System.out.println("Drinking.....");
 	}
 
+	@Override
+	public void move() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("bird is flying....");
+		
+	}
+
 }
